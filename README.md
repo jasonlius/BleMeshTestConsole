@@ -1,2 +1,2 @@
 # BleMeshTestConsole
-##test project for Ble mesh Upper machine
+test project for Ble mesh Upper machine
